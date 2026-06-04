@@ -1,0 +1,8 @@
+name: syslinux
+id: ari:cloud:compass:4337fc0d-aa55-4ff9-bd75-ef7117ff9381:component/4c6fdffe-fa4a-46ef-9e6f-a1aa05480c89/0de87102-6e8b-4efb-82a2-29a0c5b64284
+configVersion: 1
+typeId: OTHER
+ownerId: ari:cloud:identity::team/02623aed-f05b-4acd-8187-7932552722de-32 # Edge Infra (200)
+links:
+  - type: REPOSITORY
+    url: https://github.com/EENCloud/syslinux
